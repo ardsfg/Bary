@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/ray/Documents/Geo/jluna",
+                "/Users/ray/Documents/Geo/jluna/include",
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "cppStandard": "c++11",
+            "cStandard": "c99",
+            "compilerPath": "/usr/bin/clang++"
+        }
+    ],
+    "version": 4
+}

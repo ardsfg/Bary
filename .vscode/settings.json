@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "complex": "cpp",
+        "iomanip": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/clang++",
+    "cmake.sourceDirectory": "/Users/ray/Documents/Geo/jluna"
+}
